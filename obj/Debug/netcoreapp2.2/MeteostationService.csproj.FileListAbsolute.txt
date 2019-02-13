@@ -1,0 +1,14 @@
+C:\Users\techn\Documents\MeteostationService\bin\Debug\netcoreapp2.2\MeteostationService.deps.json
+C:\Users\techn\Documents\MeteostationService\bin\Debug\netcoreapp2.2\MeteostationService.runtimeconfig.json
+C:\Users\techn\Documents\MeteostationService\bin\Debug\netcoreapp2.2\MeteostationService.runtimeconfig.dev.json
+C:\Users\techn\Documents\MeteostationService\bin\Debug\netcoreapp2.2\MeteostationService.dll
+C:\Users\techn\Documents\MeteostationService\bin\Debug\netcoreapp2.2\MeteostationService.pdb
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.csprojAssemblyReference.cache
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.csproj.CoreCompileInputs.cache
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.RazorAssemblyInfo.cache
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.RazorAssemblyInfo.cs
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.AssemblyInfoInputs.cache
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.AssemblyInfo.cs
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.RazorTargetAssemblyInfo.cache
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.dll
+C:\Users\techn\Documents\MeteostationService\obj\Debug\netcoreapp2.2\MeteostationService.pdb
